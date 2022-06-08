@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👀 I’m interested in Full Stack Web Development
+👀 I’m interested in Full Stack Web Development </br>
 🌱 I’m currently learning Nodejs, MongoDB and TypeScript
 💞️ I’m looking to collaborate on open source projects.
 📫 How to reach me
