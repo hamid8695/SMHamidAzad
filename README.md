@@ -51,15 +51,11 @@ Git, GitHub, VS Code, Figma, Postman, Netlify, Vercel, Heroku
 ---
 
 ## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/syed-md-abdul-hamid-7a1610241/) | [Facebook](https://www.facebook.com/hamidazad.abdulhamid)  
+[LinkedIn](https://www.linkedin.com/in/hamid8695/) | [Facebook](https://www.facebook.com/syedmdabdulhamidazad)  
 
 📧 Email: hamidazad020@gmail.com  
 📞 Phone: +88 01859168695  
 📍 Location: Chittagong, Bangladesh  
 
----
-
-## 📈 GitHub Stats
-![Hamid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
 
