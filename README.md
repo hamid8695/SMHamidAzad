@@ -51,7 +51,7 @@ Git, GitHub, VS Code, Figma, Postman, Netlify, Vercel, Heroku
 ---
 
 ## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/hamid8695/) | [Facebook](https://www.facebook.com/syedmdabdulhamidazad)  
+[LinkedIn](https://www.linkedin.com/in/hamid8695/) | [Facebook](https://www.facebook.com/syedmdabdulhamidazad) | [Portfolio](https://syed-md-abdul-hamid.vercel.app/) 
 
 📧 Email: hamidazad020@gmail.com  
 📞 Phone: +88 01859168695  
